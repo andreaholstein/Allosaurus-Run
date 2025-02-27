@@ -1,0 +1,3 @@
+# Allosaurus Run
+
+Allosaurus Run is a minigame built using ActionScript, and Adobe/Macromedia Flash. You play as a spry Allosaurus, fleeing a T-Rex in hot pursuit. If you can find a Flash player to run this somehow...
